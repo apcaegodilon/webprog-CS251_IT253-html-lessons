@@ -1,3 +1,4 @@
+<style>
 .container {
   display: grid;
   grid-template-columns: auto auto auto;
@@ -13,3 +14,4 @@
   font-size: 30px;
   text-align: center;
 }
+</style>
